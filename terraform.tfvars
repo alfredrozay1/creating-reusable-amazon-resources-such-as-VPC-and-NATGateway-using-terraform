@@ -1,0 +1,7 @@
+region = "us-east-1"
+project_name = "Terraform"
+vpc_cidr = "10.0.0.0/16"
+public_subnet_az1_cidr = "10.0.0.0/24"
+public_subnet_az2_cidr = "10.0.0.1/24"
+private_subnet_az1_cidr = "10.0.0.2/24"
+private_subnet_az2_cidr = "10.0.0.3/24"

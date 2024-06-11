@@ -1,0 +1,3 @@
+aws s3api create-bucket \
+  --bucket alfredrozay-terraform-tfstate \
+  --profile terraform-user
